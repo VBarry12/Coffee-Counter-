@@ -1,0 +1,44 @@
+body {
+  background-image: url("coffee2.jpg");
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: #f9e0bb;
+}
+
+.container {
+  background-color: #c38154;
+  max-width: 40%;
+  margin: auto;
+  border: 3px solid #f9e0bb;
+  border-radius: 10px;
+}
+h1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+button {
+  border: 1px solid #c38154;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #395144;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+#increment-btn {
+  background: #f9e0bb;
+}
+
+#save-btn {
+  background: #f9e0bb;
+}
